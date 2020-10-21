@@ -35,7 +35,7 @@ Other files are the datasets used in the notebook
 
 ## Results<a name="results"></a>
 
-Analysis of the findings and results can be found within the notebook file.
+Analysis of the findings and results can be found at the post available [here](https://medium.com/@sraab2003/starbucks-data-analysis-2a7bd5914af1).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 

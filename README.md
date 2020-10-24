@@ -35,7 +35,7 @@ Other files are the datasets used in the notebook
 
 ## Results<a name="results"></a>
 
-Analysis of the findings and results can be found at the post available [here](https://sraab.medium.com/machine-learning-and-consumer-behavior-prediction-294fb409745c).
+Analysis of the findings and results can be found at the post available [here](https://mkid.medium.com/machine-learning-and-consumer-behavior-prediction-294fb409745c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
